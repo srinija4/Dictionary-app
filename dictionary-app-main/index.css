@@ -1,0 +1,16 @@
+body{
+    background-color: #FBAB7E;
+    background-image: url("new_bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+#searchImage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: 300% 300%;
+    
+  }
